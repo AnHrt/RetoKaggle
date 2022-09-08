@@ -1,13 +1,15 @@
 # RetoKaggle
  
  *Jupiter Notebook*
- **A01369984_Normatividad**
+ 
+ **A01369984_Normatividad** - Actividad: Análisis del contexto y la normatividad
+ **CleaningData** - Primer procesamiento de la base de datos.
  
 *Archivos CSV con base de datos*
-* CleaningData.ipybn - Jupyther Notebook containing the code with the first processing and cleaning of the files CSV, the main purpose of this first approach is to know the data, verify the null values, and make decisions about our most important variables for our analysis.
-* holidays_events.csv - File with the events divided into national, local, or regional celebration, especify the location, type of event and a brief description of the feast day.
-* oil.csv - The file containing the price of the oil with respect to time, the dates beginning in 2013 and ending in 2017.
-* store.csv -This file has data about the description of store, type, cluster, and it also provides the location as the city and state.
-* transactions.csv - The data on the file contains the transactions (USD) and type of store, the dates beginning in 2013 and ending in 2017.
-* test.csv - This file specifies information about stores, the family of products and their sales and promotions, the dates beginning in 2013 and ending in 2017.
-* train.csv - This file specifies information about stores, the family of products and their sales and promotions, the dates beginning in 2013 and ending in 2017.
+
+* holidays_events.csv - Eventos divididos en nacionales, locales y regionales. Especifica la localización en la que es celebrada, tipo de evento y una breve descripción del día festivo.
+* oil.csv - El archivo contiene el precio del petroleo con respecto al tiempo. Los datos comienzan con fechas de año 2013 y terminan los registros en el año 2017.
+* store.csv - Este archivo contiene información de la descripción de la tienda, tipo, y provee localización de la tienda, tanto ciudad como estado.
+* transactions.csv - Los datos recabados en este archivo contienen los registro de las transacciones en dolares, tipos de tienda y fechas de los movimientos.
+* test.csv - Este conjunto de datos especifica la información acerca de las ventas en tiendas, la familia de prodructos vendidos y promociones.
+* train.csv - Este conjunto de datos especifica la información acerca de las ventas en tiendas, la familia de prodructos vendidos y promociones.
