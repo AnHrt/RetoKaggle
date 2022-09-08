@@ -3,7 +3,8 @@
  *Jupiter Notebook*
  
  * **A01369984_Normatividad** - Actividad: Análisis del contexto y la normatividad
- * **CleaningData** - Primer procesamiento de la base de datos.
+ * **CleaningData** - Primer limpieza de la base de datos.
+ * **firstCode** - Primer procesamiento de la base de datos de manera individual.
  
 *Archivos CSV con base de datos*
 
